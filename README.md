@@ -34,7 +34,7 @@ Please make sure your MongoDB is running and cross-env is installed globally bef
 
 ** For MongoDB installation guide see [this](https://docs.mongodb.org/v3.0/installation/).
 
-** The server repo is available at [mern-api-server]().
+** The server repo is available at [mern-api-server](https://github.com/sudhamab/mern-api-server).
 
 
 
